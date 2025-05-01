@@ -12,7 +12,7 @@ This is a simple Tic-Tac-Toe game implemented in Python.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/tic-tac-toe.git
+   git clone https://github.com/etWert/tic-tac-toe.git
    cd tic-tac-toe
    ```
 2. Run the game:
